@@ -1,0 +1,13 @@
+{
+  "name": "angular-phonecat",
+  "subdomain": "bm_angular_phone",
+  "description": "Tutorial from angularJS",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "ls -tr test/*.js | xargs -I{} node {}",
+    "start": "node scripts/web-server.js"
+  },
+  "engines": {
+    "node": "0.6.x"
+  }
+}
