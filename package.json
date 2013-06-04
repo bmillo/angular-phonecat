@@ -1,10 +1,19 @@
 {
+<<<<<<< HEAD
   "name": "Angular Phone",
   "subdomain": "bm_angular_phonecat",
   "description": "Angular tutorial",
   "version": "0.0.3",
   "dependencies": { "angular": "~1.0.6"},
   "scripts": {
+=======
+  "name": "angular-phonecat",
+  "subdomain": "bm_angular_phone",
+  "description": "Tutorial from angularJS",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "ls -tr test/*.js | xargs -I{} node {}",
+>>>>>>> dfce618b8b85acec0fb9ddad2f81f893823b7519
     "start": "node scripts/web-server.js"
   },
   "engines": {
