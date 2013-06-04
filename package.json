@@ -2,7 +2,7 @@
   "name": "Angular Phone",
   "subdomain": "bm_angular_phonecat",
   "description": "Angular tutorial",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": { "angular": "~1.0.6"},
   "scripts": {
     "start": "node scripts/web-server.js"
